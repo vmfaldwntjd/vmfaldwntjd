@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome-nl-Core's%20github&color=auto&height=310)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome-nl-Juice's%20github&color=auto&height=310)
 
 # 🛠️ Tech Stack 🛠️
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
